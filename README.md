@@ -1,3 +1,9 @@
 # samila_fun
 
-![](image_1.png)
+
+### Easy install
+
+- Run `pip install samila` 
+
+
+![earth](image_1.png)
