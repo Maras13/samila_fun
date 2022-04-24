@@ -1,7 +1,7 @@
-# samila_fun
+# Fun with samila package
 
 
-### Easy install
+### Installation
 
 - Run `pip install samila` 
 
