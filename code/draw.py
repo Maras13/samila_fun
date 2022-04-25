@@ -6,7 +6,7 @@ import uuid
 
 import uuid
 
-DEFAULT_SEED = 101827
+DEFAULT_SEED = 10
 
 def draw():
     filename = str(uuid.uuid4())
